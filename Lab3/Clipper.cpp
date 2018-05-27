@@ -23,7 +23,6 @@
 Clipper::Clipper() {
 }
 
-
 //Bottom boundary of polygon
 string Clipper::boundaryBottom = "Bottom";
 //Top boundary of polygon
